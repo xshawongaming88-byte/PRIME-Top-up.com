@@ -7,5 +7,18 @@
     "default:Banner 2.jpg",
     "banner-1793891890083-5927.jpg"
   ],
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": ""
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com/@ff.shawonyt?si=s9JHpPO-d_DXW-W2"
+    }
+  ]
 }
