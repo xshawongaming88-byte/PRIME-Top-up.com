@@ -1,7 +1,6 @@
 {
   "logo": "logo-1793892091246.jpg",
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "default:Banner 1.jpg",
     "default:Banner 2.jpg",
@@ -20,5 +19,10 @@
       "label": "YouTube",
       "url": "https://youtube.com/@ff.shawonyt?si=s9JHpPO-d_DXW-W2"
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": {
+    "pop": "সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট\n১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে PRIME Top-up. com থেকে ❤️‍🩹"
+  }
 }
