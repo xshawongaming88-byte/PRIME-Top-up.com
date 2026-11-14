@@ -21,7 +21,32 @@
     }
   ],
   "images": null,
-  "prod": null,
+  "prod": {
+    "ff": {
+      "packages": [
+        {
+          "label": "200 FF LIKE- প্রতিদিন ১ আইডিতে ১বার",
+          "name": "200 FF LIKE",
+          "price": 40
+        },
+        {
+          "label": "3000 FF LIKE- 15 দিন এ পাবেন",
+          "name": "3000 FF LIKE",
+          "price": 450
+        },
+        {
+          "label": "6000 FF LIKE- 30 দিন এ পাবেন",
+          "name": "6000 FF LIKE",
+          "price": 900
+        },
+        {
+          "label": "12000 FF LIKE- 60 দিন এ পাবেন",
+          "name": "12000 FF LIKE",
+          "price": 1800
+        }
+      ]
+    }
+  },
   "texts": {
     "pop": "সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট\n১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে PRIME Top-up. com থেকে ❤️‍🩹"
   }
